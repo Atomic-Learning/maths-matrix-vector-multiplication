@@ -33,10 +33,11 @@ x = \begin{bmatrix}
 \end{bmatrix}.
 $$
 
-Their matrix-vector product is the $2$-dimensional column vector
+Their matrix-vector product is the $2$-dimensional column vector $b$
 
 $$
-b = Ax = \begin{bmatrix}
+b &= Ax = \\
+& \begin{bmatrix}
 \ 1 & 2 & 3 \\
 \ 4 & 5 & 6
 \end{bmatrix}
@@ -44,12 +45,12 @@ b = Ax = \begin{bmatrix}
 \ 7 \\
 \ 8 \\
 \ 9
-\end{bmatrix}
-= \begin{bmatrix}
+\end{bmatrix}\\
+&= \begin{bmatrix}
 \ 1 \times 7 + 2 \times 8 + 3 \times 9 \\
 \ 4 \times 7 + 5 \times 8 + 6 \times 9
-\end{bmatrix}
-= \begin{bmatrix}
+\end{bmatrix}\\
+&= \begin{bmatrix}
 \ 50 \\
 \ 122
 \end{bmatrix}.
