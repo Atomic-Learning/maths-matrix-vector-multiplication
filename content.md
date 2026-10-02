@@ -36,8 +36,8 @@ $$
 Their matrix-vector product is the $2$-dimensional column vector $b$
 
 $$
-b &= Ax = \\
-& \begin{bmatrix}
+b &= Ax \\
+&= \begin{bmatrix}
 \ 1 & 2 & 3 \\
 \ 4 & 5 & 6
 \end{bmatrix}
