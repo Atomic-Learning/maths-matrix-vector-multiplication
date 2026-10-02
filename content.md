@@ -1,4 +1,10 @@
-When a matrix is placed before a vector in a mathematical expression, it is said to operate on it, resulting in a new vector. This operation is known as matrix-vector multiplication. In order for the multiplication to be defined, the number of columns in the matrix must match the number of entries in the vector.
+When a matrix is placed before a vector in a mathematical expression, it is said to operate on it, resulting in a new vector. This operation is known as matrix-vector multiplication. 
+
+# Validity
+
+In order for the multiplication to be defined, the number of columns in the matrix must match the number of entries in the vector.
+
+# Definition
 
 If we have a $m \times n$ matrix $A$ and an $n$-dimensional column vector $x$, their matrix-vector product is an $m$-dimensional column vector $b$ given by:
 
