@@ -1,22 +1,21 @@
 {
-    "title": "",
-    "slug": "",
-    "description": "",
+    "title": "Maths: Matrix-Vector Multiplication",
+    "slug": "maths-matrix-vector-multiplication",
+    "description": "A description of the operation of a matrix operating on a vector, often known as matrix multiplication.",
     "authors": [
-        "",
-        ""
+        "chris-cooling"
     ],
     "tags": [
-        "",
-        ""
+        "maths",
+        "linear-algebra"
     ],
-    "duration": 0,
+    "duration": 5,
     "prerequisites": [
-        "",
-        ""
+        "maths-vectors",
+        "maths-matrices"
     ],
     "related": [
-        "",
+        "maths-vector-dot-product",
         ""
     ]
 }
