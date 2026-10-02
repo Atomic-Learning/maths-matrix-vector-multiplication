@@ -9,7 +9,7 @@
         "maths",
         "linear-algebra"
     ],
-    "duration": 5,
+    "duration": 4,
     "prerequisites": [
         "maths-vectors",
         "maths-matrices"
