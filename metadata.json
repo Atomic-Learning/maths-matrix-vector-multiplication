@@ -15,7 +15,6 @@
         "maths-matrices"
     ],
     "related": [
-        "maths-vector-dot-product",
-        ""
+        "maths-vector-dot-product"
     ]
 }
