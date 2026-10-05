@@ -13,9 +13,9 @@
     "prerequisites": [
         "maths-vectors",
         "maths-matrices",
-        "maths-summation-notation"
+        "maths-summation-notation",
+        "maths-vector-dot-product"
     ],
     "related": [
-        "maths-vector-dot-product"
     ]
 }

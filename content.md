@@ -18,6 +18,8 @@ $$
 b_i = \sum_{j=1}^{n} a_{ij} x_j, \quad i = 1, \dots, m.
 $$
 
+To phrase this less formally, each entry of the resulting vector $b$ is obtained by taking the dot product of the corresponding row of the matrix $A$ with the vector $x$. The example below will help to illustrate this.
+
 # Example
 
 Consider the $2 \times 3$ matrix:
