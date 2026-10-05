@@ -12,7 +12,8 @@
     "duration": 4,
     "prerequisites": [
         "maths-vectors",
-        "maths-matrices"
+        "maths-matrices",
+        "maths-summation-notation"
     ],
     "related": [
         "maths-vector-dot-product"
