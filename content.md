@@ -22,7 +22,7 @@ To phrase this less formally, each entry of the resulting vector $b$ is obtained
 
 # Example
 
-Consider the $2 \times 3$ matrix:
+Consider the $2 \times 3$ matrix (colouring is included to help illustrate the correspondence between the rows of the matrix and the entries of the resulting vector):
 
 $$
 A = \begin{bmatrix}
