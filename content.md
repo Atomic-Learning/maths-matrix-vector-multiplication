@@ -24,8 +24,8 @@ Consider the $2 \times 3$ matrix:
 
 $$
 A = \begin{bmatrix}
-\ 1 & 2 & 3 \\
-\ 4 & 5 & 6
+\color{#0072B2}{1} & \color{#0072B2}{2} & \color{#0072B2}{3} \\
+\color{#D55E00}{4} & \color{#D55E00}{5} & \color{#D55E00}{6}
 \end{bmatrix}
 $$
 
@@ -33,9 +33,9 @@ and the $3$-dimensional column vector
 
 $$
 x = \begin{bmatrix}
-\ 7 \\
-\ 8 \\
-\ 9
+\color{#009E73}{7} \\
+\color{#E69F00}{8} \\
+\color{#CC79A7}{9}
 \end{bmatrix}.
 $$
 
@@ -44,20 +44,20 @@ Their matrix-vector product is the $2$-dimensional column vector $b$
 $$
 b &= Ax \\
 &= \begin{bmatrix}
-\ 1 & 2 & 3 \\
-\ 4 & 5 & 6
+\color{#0072B2}{1} & \color{#0072B2}{2} & \color{#0072B2}{3} \\
+\color{#D55E00}{4} & \color{#D55E00}{5} & \color{#D55E00}{6}
 \end{bmatrix}
 \begin{bmatrix}
-\ 7 \\
-\ 8 \\
-\ 9
+\color{#009E73}{7} \\
+\color{#E69F00}{8} \\
+\color{#CC79A7}{9}
 \end{bmatrix}\\
 &= \begin{bmatrix}
-\ 1 \times 7 + 2 \times 8 + 3 \times 9 \\
-\ 4 \times 7 + 5 \times 8 + 6 \times 9
+\color{#0072B2}{1} \times \color{#009E73}{7} + \color{#0072B2}{2} \times \color{#E69F00}{8} + \color{#0072B2}{3} \times \color{#CC79A7}{9} \\
+\color{#D55E00}{4} \times \color{#009E73}{7} + \color{#D55E00}{5} \times \color{#E69F00}{8} + \color{#D55E00}{6} \times \color{#CC79A7}{9}
 \end{bmatrix}\\
 &= \begin{bmatrix}
-\ 50 \\
-\ 122
+\color{#0072B2}{50} \\
+\color{#D55E00}{122}
 \end{bmatrix}.
 $$
